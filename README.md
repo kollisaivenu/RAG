@@ -2,10 +2,10 @@
 
 This is a Retrieval Augmented Generation Project for learning purposes. The main goal wasn't to get the best possible results but to optimize the pipeline by identifying bottlenecks and make it run fast.
 
-### System Design
+### Design
 
-This project had a standard system design for a RAG workflow.
-
+This project had a standard design of a RAG workflow.
+![](rag.png)
 ### Optimization
 
 | Phase       | Share of total time | 
